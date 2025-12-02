@@ -1,16 +1,31 @@
-## Hi there 👋
+ # Hi, I'm Lilith Crook 👋
 
-<!--
-**paraphilic-ecchymosis/paraphilic-ecchymosis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **Software Engineer & Entrepreneur**
 
-Here are some ideas to get you started:
+  🌅 **Day:** Building innovative solutions @ [Lightspeed DMS](https://lightspeed.com)
+  🌙 **Night:** Architecting the future @ [Daemoniorum, LLC](https://www.daemoniorum.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 🛠️ Tech Stack
+
+  **Languages:** Kotlin • TypeScript • Rust • Java • Python
+  **Frameworks:** Spring Boot • React • TanStack • Gradle
+  **Platforms:** AWS • Docker • PostgreSQL • Ollama
+  **Focus Areas:** AI Integration • Enterprise Systems • Developer Tools
+
+  ## 🚀 What I'm Building
+
+  At **Daemoniorum**, I'm developing:
+  - 🤖 **Persona Framework** - AI-powered development platform
+  - 🎨 **Bael** - Modern admin interfaces for enterprise apps
+  - ⚡ **Sigil** - High-performance language with AI integration
+  - 🔧 **Paimon** - AI development assistants for VS Code & IntelliJ
+
+  ## 📫 Connect
+
+  - 💼 [LinkedIn](https://www.linkedin.com/in/lilithcrook/)
+  - 🏢 [Daemoniorum](https://www.daemoniorum.com)
+  - 📧 lilith@daemoniorum.com
+
+  ---
+
+  <sub>Roy, Utah • Building intelligent software that augments human capability</sub>
