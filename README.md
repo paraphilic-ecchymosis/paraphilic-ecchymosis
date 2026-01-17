@@ -15,10 +15,10 @@
   ## 🚀 What I'm Building
 
   At **Daemoniorum**, I'm developing:
-  - 🤖 **Persona Framework** - AI-powered development platform
+  - 🤖 **Persona Framework** - 
   - 🎨 **Bael** - Modern admin interfaces for enterprise apps
   - ⚡ **Sigil** - High-performance language with AI integration (https://www.sigil-lang.com)
-  - 🔧 **Paimon** - AI development assistants for VS Code & IntelliJ
+  - 🔧 **Paimon** - AI-powered development platform and assistants for VS Code & IntelliJ
 
   ## 📫 Connect
 
